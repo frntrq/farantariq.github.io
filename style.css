@@ -40,9 +40,12 @@ header {
     color: rgb(255, 255, 255);
     height: 100%;
 }
-#top-h1{
+#top-h1 {
     font-size: 4.5em;
     letter-spacing: 0.1em;
+}
+#sec-h1 {
+    width: 60%;
 }
 #email {
     color: white;
