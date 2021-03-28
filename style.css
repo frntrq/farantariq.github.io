@@ -1,0 +1,62 @@
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+}
+body {
+    font-size: large;
+    font-weight: 500;
+}
+header {
+    background-image: url(./images/header6.jpg);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    font-family: 'Oxygen', sans-serif;
+}
+#navigation a {
+    
+}
+#sociallinks {
+    height: 40px;
+}
+#sociallinks a {
+    margin-right: 10px;
+}
+#github {
+    background-image: url(./images/github.png);
+    background-repeat: no-repeat;
+    height: 32px;
+    width: 32px;
+}
+#codepen {
+    background-image: url(./images/cpen.png);
+    background-repeat: no-repeat;
+    height: 20px;
+    width: 106px;
+}
+#header-text {
+    color: rgb(255, 255, 255);
+    height: 100%;
+}
+#top-h1{
+    font-size: 4.5em;
+    letter-spacing: 0.1em;
+}
+#email {
+    color: white;
+    text-decoration: none;
+}
+#projects div {
+    
+}
+#projects div img {
+    margin: auto;
+    display: block;
+}
+section {
+    background-color: white;
+    line-height: 1.5;
+    color: #757575;
+}
