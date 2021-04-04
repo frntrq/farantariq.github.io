@@ -67,3 +67,9 @@ section {
     line-height: 1.5;
     color: #757575;
 }
+
+@media screen and (max-width: 576px) {
+	#header-text {
+		padding-top: 20px;
+	}
+}
