@@ -8,11 +8,15 @@ body {
     font-size: large;
     font-weight: 500;
 }
+a {
+	text-decoration: none;
+}
 header {
     background-image: url(./images/header6.jpg);
     background-size: cover;
     height: 100%;
     width: 100%;
+	overflow: auto;
     font-family: 'Oxygen', sans-serif;
 }
 #navigation a {
