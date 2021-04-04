@@ -16,7 +16,6 @@ header {
     background-size: cover;
     height: 100%;
     width: 100%;
-	overflow: auto;
     font-family: 'Oxygen', sans-serif;
 }
 #navigation a {
@@ -43,6 +42,7 @@ header {
 #header-text {
     color: rgb(255, 255, 255);
     height: 100%;
+	overflow: auto;
 }
 #top-h1 {
     font-size: 4.5em;
