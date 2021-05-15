@@ -67,7 +67,4 @@ section {
 }
 
 @media screen and (max-width: 767px) {
-    #header-text {
-        justify-content: flex-start !important;
-    }
 }
